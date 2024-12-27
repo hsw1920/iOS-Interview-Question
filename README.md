@@ -23,4 +23,4 @@ iOS 인터뷰를 준비합니다
 | 4주차 | iOS Application, UI, AutoLayout, ETC |
 
 📚 Contents
-- [iOS-Interview-Question](\iOS-Interview-Question)
+- [iOS-Interview-Question](https://github.com/hsw1920/iOS-Interview-Question/blob/main/iOS-Interview-Question.md)
