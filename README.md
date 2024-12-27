@@ -17,7 +17,7 @@ iOS 인터뷰를 준비합니다
 
 | 주차 | 내용 |
 | :-: | :- |
-| 1주차 | Concept, Algorithm, OS |
+| 1주차 | [Concept](https://github.com/hsw1920/iOS-Interview-Question/issues?q=label:concept), [Algorithm](https://github.com/hsw1920/iOS-Interview-Question/issues?q=label:algorithm), [OS](https://github.com/hsw1920/iOS-Interview-Question/issues?q=label:os) |
 | 2주차 | Network, Pattern, Threading, Memory Management |
 | 3주차 | Semantics, Swift ETC |
 | 4주차 | iOS Application, UI, AutoLayout, ETC |
