@@ -19,7 +19,7 @@ iOS 인터뷰를 준비합니다
 | :-: | :- |
 | 1주차 | [Concept](https://github.com/hsw1920/iOS-Interview-Question/issues?q=label:concept), [Algorithm](https://github.com/hsw1920/iOS-Interview-Question/issues?q=label:algorithm), [OS](https://github.com/hsw1920/iOS-Interview-Question/issues?q=label:os) |
 | 2주차 | [Network](https://github.com/hsw1920/iOS-Interview-Question/issues?q=label:network), [Pattern](https://github.com/hsw1920/iOS-Interview-Question/issues?q=label:pattern), [Threading](https://github.com/hsw1920/iOS-Interview-Question/issues?q=label:threading), [Memory Management](https://github.com/hsw1920/iOS-Interview-Question/issues?q=label:memory) |
-| 3주차 | Semantics, Swift ETC |
+| 3주차 | [Semantics](https://github.com/hsw1920/iOS-Interview-Question/issues?q=label:semantics), [Swift ETC](https://github.com/hsw1920/iOS-Interview-Question/issues?q=label:swift) |
 | 4주차 | iOS Application, UI, AutoLayout, ETC |
 
 ## 📚 Contents
